@@ -1,0 +1,5 @@
+# Ignore artifacts:
+.next/
+node_module/
+# Ignore specific file
+pnpm-lock.yaml
